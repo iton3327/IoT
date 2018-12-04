@@ -1,0 +1,62 @@
+{
+	"folders": [
+		{
+			"path": "Stupid Washer/Stupid Washer",
+			"name": "Stupid Washer"
+		},
+		{
+			"path": "PZEM-004Tv2",
+			"name": "PZEM-004Tv2"
+		},
+		{
+			"path": "TestAnalog",
+			"name": "TestAnalog"
+		},
+		{
+			"path": "ESPanalog",
+			"name": "ESPanalog"
+		},
+		{
+			"path": "esp32",
+			"name": "esp32"
+		},
+		{
+			"path": "emonTX",
+			"name": "emonTX"
+		},
+		{
+			"path": "PZEM-UNO",
+			"name": "PZEM-UNO"
+		},
+		{
+			"path": "Water flow sensor",
+			"name": "Water flow sensor"
+		},
+		{
+			"path": "ESP32-CTRL",
+			"name": "ESP32-CTRL"
+		},
+		{
+			"path": "/home/ton/Desktop/Git/SLM/ESP32",
+			"name": "ESP32"
+		},
+		{
+			"path": "TestKeypad",
+			"name": "TestKeypad"
+		},
+		{
+			"path": "ESP32-OLED",
+			"name": "ESP32-OLED"
+		},
+		{
+			"path": "BLE",
+			"name": "BLE"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.linux": {
+			"PATH": "/home/ton/.platformio/penv/bin:/home/ton/.platformio/penv:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
